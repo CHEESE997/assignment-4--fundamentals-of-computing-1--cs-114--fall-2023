@@ -5,4 +5,5 @@ void setup() {
   drawBoard();
   drawCircle(0,0);
   drawCircle(width/3,0);
+  drawCross(166,166);
 }
